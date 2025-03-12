@@ -1,4 +1,3 @@
-# Snake-water-gun-game-
 # 🐍 Snake-Water-Gun Game 🎮
 
 A simple **Snake-Water-Gun** game implemented in Python, where you play against the computer.
